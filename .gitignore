@@ -1,0 +1,11 @@
+/__pycache__
+/Include
+/Lib
+/Scripts
+
+.env
+
+token.txt
+pyvenv.cfg
+
+reactions.py
